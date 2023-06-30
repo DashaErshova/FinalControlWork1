@@ -1,0 +1,15 @@
+C:\Users\Ёжик\Desktop\GeekBrains\Итоговая контрольная работа по основному блоку\FinalControlWork1\bin\Debug\net6.0\FinalControlWork1.exe
+C:\Users\Ёжик\Desktop\GeekBrains\Итоговая контрольная работа по основному блоку\FinalControlWork1\bin\Debug\net6.0\FinalControlWork1.deps.json
+C:\Users\Ёжик\Desktop\GeekBrains\Итоговая контрольная работа по основному блоку\FinalControlWork1\bin\Debug\net6.0\FinalControlWork1.runtimeconfig.json
+C:\Users\Ёжик\Desktop\GeekBrains\Итоговая контрольная работа по основному блоку\FinalControlWork1\bin\Debug\net6.0\FinalControlWork1.dll
+C:\Users\Ёжик\Desktop\GeekBrains\Итоговая контрольная работа по основному блоку\FinalControlWork1\bin\Debug\net6.0\FinalControlWork1.pdb
+C:\Users\Ёжик\Desktop\GeekBrains\Итоговая контрольная работа по основному блоку\FinalControlWork1\obj\Debug\net6.0\FinalControlWork1.csproj.AssemblyReference.cache
+C:\Users\Ёжик\Desktop\GeekBrains\Итоговая контрольная работа по основному блоку\FinalControlWork1\obj\Debug\net6.0\FinalControlWork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ёжик\Desktop\GeekBrains\Итоговая контрольная работа по основному блоку\FinalControlWork1\obj\Debug\net6.0\FinalControlWork1.AssemblyInfoInputs.cache
+C:\Users\Ёжик\Desktop\GeekBrains\Итоговая контрольная работа по основному блоку\FinalControlWork1\obj\Debug\net6.0\FinalControlWork1.AssemblyInfo.cs
+C:\Users\Ёжик\Desktop\GeekBrains\Итоговая контрольная работа по основному блоку\FinalControlWork1\obj\Debug\net6.0\FinalControlWork1.csproj.CoreCompileInputs.cache
+C:\Users\Ёжик\Desktop\GeekBrains\Итоговая контрольная работа по основному блоку\FinalControlWork1\obj\Debug\net6.0\FinalControlWork1.dll
+C:\Users\Ёжик\Desktop\GeekBrains\Итоговая контрольная работа по основному блоку\FinalControlWork1\obj\Debug\net6.0\refint\FinalControlWork1.dll
+C:\Users\Ёжик\Desktop\GeekBrains\Итоговая контрольная работа по основному блоку\FinalControlWork1\obj\Debug\net6.0\FinalControlWork1.pdb
+C:\Users\Ёжик\Desktop\GeekBrains\Итоговая контрольная работа по основному блоку\FinalControlWork1\obj\Debug\net6.0\FinalControlWork1.genruntimeconfig.cache
+C:\Users\Ёжик\Desktop\GeekBrains\Итоговая контрольная работа по основному блоку\FinalControlWork1\obj\Debug\net6.0\ref\FinalControlWork1.dll
